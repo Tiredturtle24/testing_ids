@@ -1,4 +1,4 @@
-[{
+{
     "J50BH03071": [
         {
             "name": "First Place Ribbon",
@@ -21,10 +21,7 @@
             "x_LED": 4,
             "y_LED": 7
         }
-    ]
-},
-
-{
+    ],
     "J50BH03072": [
         {
             "name": "Second Place Ribbon",
@@ -48,4 +45,4 @@
             "y_LED": 12
         }
     ]
-}]
+}
