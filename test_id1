@@ -1,0 +1,51 @@
+[{
+    "50BH03071": [
+        {
+            "name": "First Place Ribbon",
+            "bay": "192.168.13.44",
+            "offset": 5,
+            "x_LED": 2,
+            "y_LED": 3
+        },
+        {
+            "name": "St Mary's Banner",
+            "bay": "192.168.13.44",
+            "offset": 7,
+            "x_LED": 1,
+            "y_LED": 2
+        },
+        {
+            "name": "Achievement Certificate",
+            "bay": "192.168.13.44",
+            "offset": 7,
+            "x_LED": 4,
+            "y_LED": 7
+        }
+    ]
+},
+
+{
+    "50BH03072": [
+        {
+            "name": "Second Place Ribbon",
+            "bay": "192.168.13.44",
+            "offset": 6,
+            "x_LED": 2,
+            "y_LED": 9
+        },
+        {
+            "name": "St John's Banner",
+            "bay": "192.168.13.44",
+            "offset": 2,
+            "x_LED": 2,
+            "y_LED": 6
+        },
+        {
+            "name": "WHS Certificate",
+            "bay": "192.168.13.44",
+            "offset": 1,
+            "x_LED": 6,
+            "y_LED": 12
+        }
+    ]
+}]
