@@ -5,21 +5,27 @@
             "bay": "192.168.13.44",
             "offset": 5,
             "x_LED": 2,
-            "y_LED": 3
+            "y_LED": 3,
+            "qty_item": 50
+            
         },
         {
             "name": "St Mary's Banner",
             "bay": "192.168.13.44",
             "offset": 7,
             "x_LED": 1,
-            "y_LED": 2
+            "y_LED": 2,
+            "qty_item": 150
+
         },
         {
             "name": "Achievement Certificate",
             "bay": "192.168.13.44",
             "offset": 7,
             "x_LED": 4,
-            "y_LED": 7
+            "y_LED": 7,
+            "qty_item": 30
+
         }
     ],
     "J50BH03072": [
@@ -28,21 +34,24 @@
             "bay": "192.168.13.44",
             "offset": 6,
             "x_LED": 2,
-            "y_LED": 9
+            "y_LED": 9,
+            "qty_item": 90
         },
         {
             "name": "St John's Banner",
             "bay": "192.168.13.44",
             "offset": 2,
             "x_LED": 2,
-            "y_LED": 6
+            "y_LED": 6,
+            "qty_item": 10
         },
         {
             "name": "WHS Certificate",
             "bay": "192.168.13.44",
             "offset": 1,
             "x_LED": 6,
-            "y_LED": 12
+            "y_LED": 12,
+            "qty_item": 52
         }
     ]
 }
