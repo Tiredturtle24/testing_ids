@@ -1,0 +1,92 @@
+{
+    "56DLPLAIN": {
+        "offset_y": 10,
+        "ip_bay": "192.168.13.42",
+        "coordinate_x": 3,
+        "id_item": "50BH03072",
+        "id_item_coordinate": 5,
+        "id_bay": 1,
+        "coordinate_y": 5
+    },
+    "9820PR": {
+        "offset_y": 10,
+        "ip_bay": "192.168.13.42",
+        "coordinate_x": 1,
+        "id_item": "50BH03071",
+        "id_item_coordinate": 1,
+        "coordinate_y": 1,
+        "id_bay": 1
+    },
+    "74NBYE": {
+        "offset_y": 10,
+        "ip_bay": "192.168.13.42",
+        "coordinate_x": 3,
+        "id_item": "50BH03072",
+        "id_item_coordinate": 5,
+        "id_bay": 1,
+        "coordinate_y": 5
+    },
+    "75C50CM": {
+        "offset_y": 10,
+        "ip_bay": "192.168.13.42",
+        "coordinate_x": 1,
+        "id_item": "50BH03071",
+        "id_item_coordinate": 1,
+        "coordinate_y": 1,
+        "id_bay": 1
+    },
+    "71999": {
+        "offset_y": 10,
+        "ip_bay": "192.168.13.42",
+        "coordinate_x": 3,
+        "id_item": "50BH03072",
+        "id_item_coordinate": 5,
+        "id_bay": 1,
+        "coordinate_y": 5
+    },
+    "52ISN0307": {
+        "offset_y": 10,
+        "ip_bay": "192.168.13.42",
+        "coordinate_x": 1,
+        "id_item": "50BH03071",
+        "id_item_coordinate": 1,
+        "coordinate_y": 1,
+        "id_bay": 1
+    },
+    "52ISY0607": {
+        "offset_y": 10,
+        "ip_bay": "192.168.13.42",
+        "coordinate_x": 3,
+        "id_item": "50BH03072",
+        "id_item_coordinate": 5,
+        "id_bay": 1,
+        "coordinate_y": 5
+    },
+    "42STLASER": {
+        "offset_y": 10,
+        "ip_bay": "192.168.13.42",
+        "coordinate_x": 3,
+        "id_item": "50BH03072",
+        "id_item_coordinate": 5,
+        "id_bay": 1,
+        "coordinate_y": 5
+    },
+    "52012031L": {
+        "offset_y": 10,
+        "ip_bay": "192.168.13.42",
+        "coordinate_x": 1,
+        "id_item": "50BH03071",
+        "id_item_coordinate": 1,
+        "coordinate_y": 1,
+        "id_bay": 1
+    },
+    "52023021": {
+        "offset_y": 10,
+        "ip_bay": "192.168.13.42",
+        "coordinate_x": 1,
+        "id_item": "50BH03071",
+        "id_item_coordinate": 1,
+        "coordinate_y": 1,
+        "id_bay": 1
+    }
+}
