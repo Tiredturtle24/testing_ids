@@ -1,0 +1,111 @@
+{
+    "50BH03071": [
+        {
+            "name": "First Place Ribbon",
+            "bay": "192.168.13.44",
+            "offset": 5,
+            "x_LED": 2,
+            "y_LED": 3,
+            "qty_item": 50
+            
+        },
+        {
+            "name": "St Mary's Banner",
+            "bay": "192.168.13.44",
+            "offset": 7,
+            "x_LED": 1,
+            "y_LED": 2,
+            "qty_item": 150
+
+        },
+        {
+            "name": "Achievement Certificate",
+            "bay": "192.168.13.44",
+            "offset": 7,
+            "x_LED": 4,
+            "y_LED": 7,
+            "qty_item": 30
+
+        }
+    ],
+    "50BH03072": [
+        {
+            "name": "Second Place Ribbon",
+            "bay": "192.168.13.44",
+            "offset": 6,
+            "x_LED": 2,
+            "y_LED": 9,
+            "qty_item": 90
+        },
+        {
+            "name": "St John's Banner",
+            "bay": "192.168.13.44",
+            "offset": 2,
+            "x_LED": 2,
+            "y_LED": 6,
+            "qty_item": 10
+        },
+        {
+            "name": "WHS Certificate",
+            "bay": "192.168.13.44",
+            "offset": 1,
+            "x_LED": 6,
+            "y_LED": 12,
+            "qty_item": 52
+        }
+    ],
+
+"50BH03073": [
+        {
+            "name": "Third Place Ribbon",
+            "bay": "192.168.13.42",
+            "offset": 6,
+            "x_LED": 2,
+            "y_LED": 9,
+            "qty_item": 90
+        },
+        {
+            "name": "St Mark's Banner",
+            "bay": "192.168.13.44",
+            "offset": 2,
+            "x_LED": 2,
+            "y_LED": 6,
+            "qty_item": 10
+        },
+        {
+            "name": "Mild Achievement Certificate",
+            "bay": "192.168.13.42",
+            "offset": 1,
+            "x_LED": 6,
+            "y_LED": 12,
+            "qty_item": 52
+        }
+    ],
+
+"50BH03074": [
+        {
+            "name": "Participation Ribbon",
+            "bay": "192.168.13.42",
+            "offset": 6,
+            "x_LED": 2,
+            "y_LED": 9,
+            "qty_item": 90
+        },
+        {
+            "name": "St Joseph's Banner",
+            "bay": "192.168.13.42",
+            "offset": 2,
+            "x_LED": 2,
+            "y_LED": 6,
+            "qty_item": 10
+        },
+        {
+            "name": "Math Certificate",
+            "bay": "192.168.13.44",
+            "offset": 1,
+            "x_LED": 6,
+            "y_LED": 12,
+            "qty_item": 52
+        }
+    ]
+}
