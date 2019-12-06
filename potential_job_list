@@ -120,7 +120,8 @@
         ],
         "id_job": "44046",
         "id_customer": "20362455"
-    }
+    },
+    "44056":{"items":[{"id_item":"SPPEN","qty_item":80,"name_item":"Pennant - SP"}],"id_job":"44056","id_customer":"20370050"},"
 }
 
 
